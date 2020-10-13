@@ -1,2 +1,2 @@
-# accountingsystem
+# accounting system
 Personalized Accounting System
